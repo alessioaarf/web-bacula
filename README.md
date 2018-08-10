@@ -6,4 +6,4 @@ Implementa
 
 ### Capturas de Telas do Servidor e Cliente
 
-![screen1](capturas/ap.png)
+![screen1](capturas/ap2.png)
